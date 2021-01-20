@@ -1,4 +1,4 @@
-defmodule FormatParagraph do
+defmodule FormatText do
   def format do
     "problem2.txt"
     |> File.read!()
